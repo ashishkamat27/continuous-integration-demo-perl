@@ -1,0 +1,9 @@
+% layout 'default', title => 'RaaS';
+
+<div class="container">     
+    <div class="span12 centered-text">
+        <h1>RaaS: /dev/random as a service.</h1>
+        The first one for free: <%= $random %>
+    </div> 
+</div>
+
